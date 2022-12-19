@@ -3,3 +3,4 @@ made new clone. it's name is Practice2
 asdf
 trash source tree
 make branch feature/br1
+delete branch feature/br1
