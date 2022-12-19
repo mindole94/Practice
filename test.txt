@@ -5,3 +5,4 @@ trash source tree
 make branch feature/br1
 delete branch feature/br1
 remake branch br1
+delete br1 N make feature/br2
