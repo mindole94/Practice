@@ -4,3 +4,4 @@ asdf
 trash source tree
 make branch feature/br1
 delete branch feature/br1
+remake branch br1
